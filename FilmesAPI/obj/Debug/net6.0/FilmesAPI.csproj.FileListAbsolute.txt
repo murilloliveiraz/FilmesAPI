@@ -66,3 +66,11 @@ C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAP
 C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.sourcelink.json
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.xml
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.xml
