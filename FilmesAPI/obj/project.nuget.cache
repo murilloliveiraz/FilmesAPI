@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/lSgzkUmS/nidmgrsn5lE+VBWyxmVUK47b/5OOocNXcHieg/OAGpBX2hJSsMIDiAsjMNuBov/OYLuTvvWNlqfw==",
+  "dgSpecHash": "5rKhEG2E1PEi3IcH9wG2qgKcbN3dhx7M3+JL0NP05Ut2D4i2I8K5qCOaEkgcx4p8esPDxFn7Ibc3vM428jszJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\david.soares\\OneDrive - Cobreflex\\Documentos\\estudos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\david.soares\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\david.soares\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\david.soares\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\david.soares\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\david.soares\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\david.soares\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\david.soares\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\david.soares\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
